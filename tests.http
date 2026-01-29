@@ -1,0 +1,6 @@
+### Verificar saúde
+GET http://localhost:3001/health
+
+
+### Fazer login
+POST
